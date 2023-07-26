@@ -1,4 +1,4 @@
-# Database-_-Management-System
+# Database-Management-System
 This is a preliminary design for a cafe management database for a school project 
 
 After carefully considered structural database rules, I have added Specialization-generalization changes to the Conceptual Entity Relationship Diagram (ERD). Here is the resulting ERD that I referenced to create the SQL code. 
